@@ -1,0 +1,5 @@
+kubernetes
+google-generativeai
+requests
+boto3
+azure-identity
